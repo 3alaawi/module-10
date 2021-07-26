@@ -1,5 +1,5 @@
 # Module 10
-## The .png files contain two examples for the chatbot.
+## The .png files contain two examples for the chatbot. The 3 .yml files requested are also in the repository
 
 ## One for subscribing
 ![ Subscribe](https://picc.io/VoDyIEC.PNG)]
