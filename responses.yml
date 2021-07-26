@@ -1,0 +1,61 @@
+responses:
+   utter_greet:
+       - text: |
+           Hello! How can I help you?
+       - text: |
+           Hi!
+
+   utter_ask_email:
+       - text: |
+           What is your email address?
+
+   utter_subscribe:
+       - text: |
+           Check your inbox at {email} in order to finish subscribing to the newsletter!
+       - text: |
+           You're all set! Check your inbox at {email} to confirm your subscription.
+
+   utter_unsubscribe:
+       - text: |
+           We will stop sending you newsletters! Care to tell us why?
+       - text: |
+           We wont send you newsletters! Care to tell us why?
+       - text: |
+           Sending you newsletters? No more! Care to tell us why?
+       - text: |
+           Not a single newsletter from now on.. I guess. Care to tell us why?
+
+   utter_thankyou:
+       - text: |
+           Glad I could help.
+       - text: |
+           Of course!
+       - text: |
+           Anything for you my beloved user.
+       - text: |
+           Happy to assist.
+
+   utter_goodbye:
+       - text: |
+           Goodbye.
+       - text: |
+           See you later.
+       - text: |
+           Bye-Bye
+       - text: |
+           Sayonara
+
+   utter_why:
+       - text: |
+           ok, we understand
+       - text: |
+           no problem
+       - text: |
+           sounds good
+       - text: |
+           We hate to see you leave
+
+
+
+
+
